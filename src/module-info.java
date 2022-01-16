@@ -1,0 +1,2 @@
+module bakery {
+}
